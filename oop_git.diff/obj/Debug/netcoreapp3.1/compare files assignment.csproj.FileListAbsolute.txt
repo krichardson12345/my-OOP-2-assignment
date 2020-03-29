@@ -1,0 +1,11 @@
+C:\Users\krich\Desktop\oop_git.diff\obj\Debug\netcoreapp3.1\compare files assignment.csprojAssemblyReference.cache
+C:\Users\krich\Desktop\oop_git.diff\obj\Debug\netcoreapp3.1\compare files assignment.AssemblyInfoInputs.cache
+C:\Users\krich\Desktop\oop_git.diff\obj\Debug\netcoreapp3.1\compare files assignment.AssemblyInfo.cs
+C:\Users\krich\Desktop\oop_git.diff\bin\Debug\netcoreapp3.1\compare files assignment.exe
+C:\Users\krich\Desktop\oop_git.diff\bin\Debug\netcoreapp3.1\compare files assignment.deps.json
+C:\Users\krich\Desktop\oop_git.diff\bin\Debug\netcoreapp3.1\compare files assignment.runtimeconfig.json
+C:\Users\krich\Desktop\oop_git.diff\bin\Debug\netcoreapp3.1\compare files assignment.runtimeconfig.dev.json
+C:\Users\krich\Desktop\oop_git.diff\bin\Debug\netcoreapp3.1\compare files assignment.dll
+C:\Users\krich\Desktop\oop_git.diff\bin\Debug\netcoreapp3.1\compare files assignment.pdb
+C:\Users\krich\Desktop\oop_git.diff\obj\Debug\netcoreapp3.1\compare files assignment.dll
+C:\Users\krich\Desktop\oop_git.diff\obj\Debug\netcoreapp3.1\compare files assignment.pdb
